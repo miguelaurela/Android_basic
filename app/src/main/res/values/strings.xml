@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Parcial 1 Miguel Aurela</string>
+    <string name="IntoUser">Introducir usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="Bienvenido">Welcome</string>
+    <string name="User">Usuario</string>
+    <string name="edtNumber">Número</string>
+    <string name="btnGuardarNumero">Guardar Número</string>
+    <string name="Number">Número</string>
+    <string name="Calculate">Calcular</string>
+    <string name="daleteVector">Borrar Vec.</string>
+    <string name="mean">Promedio</string>
+    <string name="MayorValor">"Mayor valor "</string>
+    <string name="MenorValor">Menor valor</string>
+    <string name="OrdenarVector">Ordenar vector</string>
+</resources>
